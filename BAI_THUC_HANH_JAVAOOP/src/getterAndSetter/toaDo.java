@@ -14,7 +14,7 @@ public class toaDo {
         return y;
     }
     public void setY(int y){
-        this.y=y;
+        this.y=y;   
     }
     
 }
