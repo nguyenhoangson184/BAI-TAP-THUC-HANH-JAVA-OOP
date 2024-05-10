@@ -22,7 +22,9 @@ public class Silde27chuong4 {
         listA.retainAll(listB);
         System.out.print("listA:");
         //ShowList(listA);
-        System.out.println();
+        System.out.println(
+            
+        );
 
     }
     
